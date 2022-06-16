@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+}
+.result{
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+}
+.eror{
+    color: red;
+    margin-right: 50px;
+    margin-bottom: 160px;
+    height: 80px;
+}
+.forma{
+ height:200px;
+ width: 180px;
+ float: right;
+ margin-left: 40%;
+}
+.erori{
+    margin-top: 40px;
+}
+.img{
+    height: 250px;
+    width: 300px;
+    margin-left: 40%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.suname{
+    margin-left: 42%;
+    color: green;
+    font-size: 4vh;
+}
